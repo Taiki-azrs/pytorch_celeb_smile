@@ -1,1 +1,4 @@
 # pytorch_celeb_smile
+pytorch勉強用
+
+Celebデータセットから笑顔か真顔かを画像分類する
